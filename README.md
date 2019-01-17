@@ -1,30 +1,29 @@
 # first-assignment
 
-##  Introduction
+Alt-H2  Introduction
 
 This is my first assingnment I got in the web-app course.
 
 - [Webpage](https://en.wikipedia.org/wiki/Wiki "Link to Wiki")
 
-##  Ordered List
+ALt-H2 Ordered List
  
    1. Apple
    1. Mango
    1. Banana
    1. Orange
-   
-##  Unordered List
+Alt-H2  Unordered List
  
     - Apple
     - Mango
     - Banana
     - Orange
     
-##  I Am Displaying An Image
+Alt-H2 I Am Displaying An Image
  
  ![Hosted image](https://www.bensound.com/bensound-img/november.jpg)
  
-##  About
+ALt-H2 About
  
  Prajakt Khawse
  
